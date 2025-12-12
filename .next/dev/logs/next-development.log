@@ -1,0 +1,151 @@
+[00:00:00.973] Server  LOG      ✓ Ready in 741ms
+[00:00:13.053] Server  LOG      ○ Compiling / ...
+[00:00:18.690] Server  WARN     ⚠ Cross origin request detected from 192.168.110.158 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:18.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.304] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.637] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__var..."
+-                           data-new-gr-c-s-check-loaded="14.1265.0"
+-                           data-gr-ext-installed=""
+                          >
+                  ...
+
+[00:00:36.113] Browser WARN    Dialog is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component.
+[00:02:27.482] Server  LOG      ✓ Compiled in 57ms
+[00:02:43.481] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:05.918] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:05.918] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:10.257] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:10.257] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:16.040] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:16.040] Browser LOG     Object fields structure: {
+  "count": "0",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:16.553] Browser LOG     Object fields structure: {
+  "count": "1",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
+[00:03:16.553] Browser LOG     Object fields structure: {
+  "count": "1",
+  "id": {
+    "id": "0xd7be1a4263f5670515c059523abf9e0dbbd018421bb58b492bbed652945fea30"
+  },
+  "name": [
+    98,
+    97,
+    110,
+    103
+  ]
+}
