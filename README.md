@@ -1,4 +1,3 @@
-D<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/7a32997d-ecf6-46f5-bc8a-6bc68cea4ccc" />
 # IOTA Attendance dApp
 
 A decentralized attendance dApp built on the IOTA blockchain where users can create events and check-in using Move smart contracts.
@@ -56,8 +55,11 @@ This Attendance dApp enables users to:
 ## 📜 Smart Contract
 
 ### Contract Address
-**Package ID**: `0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac` (testnet)
-**IOTA Explorer View**: https://iotascan.com/testnet/account/0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac/portfolio
+**Package ID**: `0xb3dc4f8acbf0371ad4808bd1c8952e19e91d00651763b4caabbcdedddbcf62fa` (testnet)
+**IOTA Explorer View**: https://explorer.iota.org/object/0xb3dc4f8acbf0371ad4808bd1c8952e19e91d00651763b4caabbcdedddbcf62fa?network=testnet
+
+<img width="1558" height="938" alt="image" src="https://github.com/user-attachments/assets/1cea95c3-711c-4a49-b827-8db686a57942" />
+
 
 Your deployed contract details:
 
