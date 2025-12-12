@@ -55,7 +55,8 @@ This Attendance dApp enables users to:
 ## 📜 Smart Contract
 
 ### Contract Address
-**Package ID**: `0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac` (devnet)
+**Package ID**: `0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac` (testnet)
+**IOTA Explorer View**: https://iotascan.com/testnet/account/0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac/portfolio
 
 Your deployed contract details:
 
