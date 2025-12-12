@@ -60,7 +60,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$iota$2f$io
 ;
 ;
 ;
-const PACKAGE_ID = "0xe7a4eb3db0d780f6ca5525b9e0bf12ba64220d05ef7cf13a8afc330b9cbf9bac";
+const PACKAGE_ID = "0xb3dc4f8acbf0371ad4808bd1c8952e19e91d00651763b4caabbcdedddbcf62fa";
 const CONTRACT_MODULE = "contract";
 const CONTRACT_METHODS = {
     CREATE_SESSION: "create_session",
