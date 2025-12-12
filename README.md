@@ -1,3 +1,4 @@
+D<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/7a32997d-ecf6-46f5-bc8a-6bc68cea4ccc" />
 # IOTA Attendance dApp
 
 A decentralized attendance dApp built on the IOTA blockchain where users can create events and check-in using Move smart contracts.
